@@ -1,0 +1,5 @@
+﻿  andersScoreboard.cpp
+C:\Users\David Hedin\source\repos\andersScoreboard\andersScoreboard\andersScoreboard.cpp(66,28): warning C4018: '>': signed/unsigned mismatch
+C:\Users\David Hedin\source\repos\andersScoreboard\andersScoreboard\andersScoreboard.cpp(72,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\David Hedin\source\repos\andersScoreboard\andersScoreboard\andersScoreboard.cpp(73,27): warning C4018: '<': signed/unsigned mismatch
+  andersScoreboard.vcxproj -> C:\Users\David Hedin\source\repos\andersScoreboard\Debug\andersScoreboard.exe
