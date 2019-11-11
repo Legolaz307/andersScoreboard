@@ -1,2 +1,2 @@
 # andersScoreboard
-Code for nders
+Code for anders
