@@ -1,7 +1,7 @@
 # andersScoreboard
 Code for anders
 
-Start up a c++ compiler such as visual studio 2019 and open andersScoreboard.proj
+Start up a c++ compiler such as visual studio 2019 and open andersScoreboard.vcxproj
 From here under Source Files there is a file called andersScoreboard.cpp
 Open andersScoreboard.proj, then use Build Solution and then use Start Without debugging
 
